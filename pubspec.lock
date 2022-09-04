@@ -74,6 +74,29 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  geocoder:
+    dependency: "direct main"
+    description:
+      name: geocoder
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.1"
+  google_nav_bar:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: master
+      resolved-ref: ae7bec04bfe8dea7b16a9e748351d8558d3b00cc
+      url: "https://github.com/am1994/google_nav_bar_updated.git"
+    source: git
+    version: "5.0.6"
+  intl:
+    dependency: "direct main"
+    description:
+      name: intl
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.17.0"
   lints:
     dependency: transitive
     description:
